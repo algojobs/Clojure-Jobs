@@ -1,11 +1,14 @@
 # Clojure Jobs
 
-This data is updated weekly, with filled postings removed. Last updated: 12/13/2024
+This data is updated weekly, with filled postings removed. Last updated: 12/17/2024
 
 All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent postings, see: [Clojure Jobs](https://algojobs.io/jobs/clojure)
 
 | Posted | Title | Company | Salary | Location |
 | --- | --- | --- | --- | --- |
+| 12/16/2024 | [Senior Software Engineer](https://algojobs.io/jobs/2599110) | [The Weather Company](https://algojobs.io/company/theweathercompany/) | N/A | Madison, WI |
+| 12/13/2024 | [Senior Software Engineer](https://algojobs.io/jobs/2572809) | [The Weather Company](https://algojobs.io/company/theweathercompany/) | N/A | Atlanta, GA |
+| 12/12/2024 | [Software Engineer III - Clojure development](https://algojobs.io/jobs/2596482) | [Walmart](https://algojobs.io/company/walmart/) | $108K - $216K | Bellevue, WA / Bentonville, AR |
 | 12/05/2024 | [Backend Engineer](https://algojobs.io/jobs/2506658) | [AppsFlyer](https://algojobs.io/company/appsflyer/) | N/A | Herzliya |
 | 12/03/2024 | [Lead Developer Clojure](https://algojobs.io/jobs/2479007) | [Thoughtworks](https://algojobs.io/company/thoughtworks/) | N/A | Toronto |
 | 12/03/2024 | [Lead Software Developer Clojure](https://algojobs.io/jobs/2479010) | [Thoughtworks](https://algojobs.io/company/thoughtworks/) | N/A | Chicago, Illinois |
@@ -30,8 +33,3 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 10/28/2024 | [Backend Developer](https://algojobs.io/jobs/2084575) | [Nanit](https://algojobs.io/company/nanit/) | N/A | Tel Aviv, Israel (Hybrid) |
 | 10/28/2024 | [Principal Software Engineer - Clojure](https://algojobs.io/jobs/2089241) | [Comcast](https://algojobs.io/company/comcast/) | N/A | PA - Philadelphia, 1800 Arch St, United States of America |
 | 10/24/2024 | [Lead Software Engineer](https://algojobs.io/jobs/2064700) | [Gravie](https://algojobs.io/company/gravie/) | N/A | Minneapolis, MN (Hybrid) |
-| 10/18/2024 | [Fullstack Software Engineer](https://algojobs.io/jobs/2025826) | [PlantingSpace](https://algojobs.io/company/planting.space/) | N/A | Remote |
-| 10/15/2024 | [Mid/Senior Software Engineer (Python & AWS)](https://algojobs.io/jobs/2413127) | [Nortal](https://algojobs.io/company/en-nortal/) | N/A | Sofia, BG |
-| 10/15/2024 | [Senior Software Engineer – Cloud Services](https://algojobs.io/jobs/2001802) | [NCR Voyix](https://algojobs.io/company/ncr/) | N/A | PRAGUE, CZE, Czechia |
-| 10/15/2024 | [Senior Software Engineer – Cloud Services](https://algojobs.io/jobs/2001798) | [NCR Voyix](https://algojobs.io/company/ncr/) | N/A | PRAGUE, CZE, Czechia |
-| 10/15/2024 | [Staff, Software Engineer (geoSpatial) - Sunnyvale, CA](https://algojobs.io/jobs/2024493) | [Walmart](https://algojobs.io/company/walmart/) | $143K - $286K | (USA) CA SUNNYVALE Home Office SUNNYVALE IV- 680 W CALIFORNIA, United States of America |
