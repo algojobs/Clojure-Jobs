@@ -1,11 +1,25 @@
 # Clojure Jobs
 
-This data is updated weekly, with filled postings removed. Last updated: 01/02/2025
+This data is updated weekly, with filled postings removed. Last updated: 01/14/2025
 
 All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent postings, see: [Clojure Jobs](https://algojobs.io/jobs/clojure)
 
 | Posted | Title | Company | Salary | Location |
 | --- | --- | --- | --- | --- |
+| 01/13/2025 | [Software Engineer II](https://algojobs.io/jobs/2817141) | [Vivid Seats](https://algojobs.io/company/vividseatsllc/) | $100K - $125K | Chicago, IL |
+| 01/13/2025 | [Sr. Software Engineer](https://algojobs.io/jobs/2817143) | [Vivid Seats](https://algojobs.io/company/vividseatsllc/) | $135K - $165K | Chicago, IL |
+| 01/13/2025 | [Clojure Developer](https://algojobs.io/jobs/2818114) | [AssureSoft - Careers](https://algojobs.io/company/assuresoften/) | N/A | Peru (Remote) |
+| 01/13/2025 | [Clojure Developer](https://algojobs.io/jobs/2818110) | [AssureSoft - Careers](https://algojobs.io/company/assuresoften/) | N/A | Paraguay (Remote) |
+| 01/13/2025 | [Clojure Developer](https://algojobs.io/jobs/2818116) | [AssureSoft - Careers](https://algojobs.io/company/assuresoften/) | N/A | Brazil (Remote) |
+| 01/13/2025 | [Clojure Developer](https://algojobs.io/jobs/2818117) | [AssureSoft - Careers](https://algojobs.io/company/assuresoften/) | N/A | Colombia (Remote) |
+| 01/13/2025 | [Clojure Developer](https://algojobs.io/jobs/2818113) | [AssureSoft - Careers](https://algojobs.io/company/assuresoften/) | N/A | Bolivia (Remote) |
+| 01/13/2025 | [Software Engineer - Functional](https://algojobs.io/jobs/2815220) | [KUBRA](https://algojobs.io/company/kubra/) | N/A | Mississauga, ON / Dallas, TX / Arizona (Hybrid) |
+| 01/09/2025 | [Associate Software Engineer - Observability](https://algojobs.io/jobs/2783962) | [GoTo Group](https://algojobs.io/company/gotogroup/) | N/A | Bengaluru (Hybrid) |
+| 01/08/2025 | [Full Stack Developer](https://algojobs.io/jobs/2770370) | [PALO IT](https://algojobs.io/company/paloit/) | N/A | Bangkok, Thailand |
+| 01/07/2025 | [Sr. Software Development Engineer](https://algojobs.io/jobs/2760166) | [ADUS-Adobe Inc.](https://algojobs.io/company/adobe/) | $133K - $242K | Remote North Carolina / Remote New York / Remote Pennsylvania / ... |
+| 01/06/2025 | [Software Engineer - Money](https://algojobs.io/jobs/2738569) | [CircleCI](https://algojobs.io/company/circleci/) | $113K - $141K | Toronto |
+| 01/03/2025 | [Lead Consultant, Software Development](https://algojobs.io/jobs/2726012) | [Referrals Only](https://algojobs.io/company/thoughtworksreferral/) | N/A | Ho Chi Minh City |
+| 01/03/2025 | [Lead Consultant, Software Development](https://algojobs.io/jobs/2726472) | [Thoughtworks](https://algojobs.io/company/thoughtworks/) | N/A | Ho Chi Minh City |
 | 01/01/2025 | [Software Engineer](https://algojobs.io/jobs/2707825) | [Reinventing Geospatial, Inc. (RGi)](https://algojobs.io/company/rgi/) | $115K - $170K | Denver, CO / Herndon, VA / St. Louis, MO |
 | 12/19/2024 | [(Senior) Scala Software Engineer (m/f/d) - Offering](https://algojobs.io/jobs/2639780) | [MOIA](https://algojobs.io/company/moia/) | N/A | Hamburg, Germany |
 | 12/19/2024 | [(Senior) Scala Software Engineer (m/f/d) - Offering](https://algojobs.io/jobs/2639776) | [MOIA](https://algojobs.io/company/moia/) | N/A | Berlin, Germany |
@@ -24,8 +38,3 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 11/19/2024 | [Software Engineer](https://algojobs.io/jobs/2237628) | [DRW ](https://algojobs.io/company/drweng/) | N/A | Chicago |
 | 11/19/2024 | [Principal Software Engineer (Backend)](https://algojobs.io/jobs/2236793) | [Highspot](https://algojobs.io/company/highspot/) | N/A | India - Hyderabad (Hybrid) |
 | 11/19/2024 | [Senior Software Engineer – Cloud Services](https://algojobs.io/jobs/2243025) | [NCR Voyix](https://algojobs.io/company/ncr/) | N/A | PRAGUE, CZE, Czechia |
-| 11/14/2024 | [Software Engineer - Foundation Security](https://algojobs.io/jobs/2201888) | [GoTo Group](https://algojobs.io/company/gotogroup/) | N/A | Bengaluru |
-| 11/12/2024 | [Staff Software Engineer](https://algojobs.io/jobs/2184837) | [Ladder](https://algojobs.io/company/ladder33/) | $161K - $210K | Palo Alto - HQ |
-| 11/04/2024 | [Senior Software Engineer](https://algojobs.io/jobs/2202715) | [Nubank](https://algojobs.io/company/nubank/) | N/A | Mexico, Mexico City |
-| 11/04/2024 | [Senior Software Engineer](https://algojobs.io/jobs/2202716) | [Nubank](https://algojobs.io/company/nubank/) | N/A | Brazil, Sao Paulo |
-| 11/04/2024 | [Pessoa Engenheira de Software - exclusiva para Pessoas com Deficiência](https://algojobs.io/jobs/2202711) | [Nubank](https://algojobs.io/company/nubank/) | N/A | Brazil, Sao Paulo |
