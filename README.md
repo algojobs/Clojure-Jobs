@@ -1,13 +1,14 @@
 # Clojure Jobs
 
-This data is updated weekly, with filled postings removed. Last updated: 01/30/2025
+This data is updated weekly, with filled postings removed. Last updated: 02/04/2025
 
 All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent postings, see: [Clojure Jobs](https://algojobs.io/jobs/clojure)
 
 | Posted | Title | Company | Salary | Location |
 | --- | --- | --- | --- | --- |
+| 01/30/2025 | [Sr Software Engineer, Backend](https://algojobs.io/jobs/3002552) | [Bird](https://algojobs.io/company/bird/) | N/A | Remote- Canada  |
+| 01/30/2025 | [Sr Software Engineer, Backend](https://algojobs.io/jobs/3002553) | [Bird](https://algojobs.io/company/bird/) | N/A | USA (Remote) |
 | 01/29/2025 | [Software Engineer - Frontend](https://algojobs.io/jobs/2974984) | [Ladder](https://algojobs.io/company/ladder33/) | $114K - $134K | Palo Alto, CA |
-| 01/29/2025 | [Sr. Software Developer](https://algojobs.io/jobs/2991648) | [Redfin](https://algojobs.io/company/redfin/) | N/A | WA - Seattle, United States of America |
 | 01/27/2025 | [Backend Software Engineer](https://algojobs.io/jobs/2959255) | [Treasury Prime](https://algojobs.io/company/treasuryprime/) | $150K - $180K | San Francisco, California / Remote US / Remote Canada / US |
 | 01/24/2025 | [Senior Software Engineer Backend](https://algojobs.io/jobs/2941925) | [Deep Impact AG](https://algojobs.io/company/deep-impact/) | N/A | Winterthur, Zurich, Switzerland |
 | 01/24/2025 | [(USA) Senior, Software Engineer](https://algojobs.io/jobs/2950550) | [Wal-Mart Stores East, LP](https://algojobs.io/company/walmart/) | $117K - $234K | (USA) CA SUNNYVALE Home Office GEC Sunnyvale Bus Pk Bldg M, United States of America |
@@ -30,7 +31,6 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 01/13/2025 | [Clojure Developer](https://algojobs.io/jobs/2818117) | [AssureSoft - Careers](https://algojobs.io/company/assuresoften/) | N/A | Colombia (Remote) |
 | 01/13/2025 | [Clojure Developer](https://algojobs.io/jobs/2818113) | [AssureSoft - Careers](https://algojobs.io/company/assuresoften/) | N/A | Bolivia (Remote) |
 | 01/13/2025 | [Software Engineer - Functional](https://algojobs.io/jobs/2815220) | [KUBRA](https://algojobs.io/company/kubra/) | N/A | Mississauga, ON / Dallas, TX / Arizona (Hybrid) |
-| 01/09/2025 | [Associate Software Engineer - Observability](https://algojobs.io/jobs/2783962) | [GoTo Group](https://algojobs.io/company/gotogroup/) | N/A | Bengaluru (Hybrid) |
 | 01/08/2025 | [Full Stack Developer](https://algojobs.io/jobs/2770370) | [PALO IT](https://algojobs.io/company/paloit/) | N/A | Bangkok, Thailand |
 | 01/06/2025 | [Software Engineer - Money](https://algojobs.io/jobs/2738569) | [CircleCI](https://algojobs.io/company/circleci/) | $113K - $141K | Toronto |
 | 01/03/2025 | [Lead Consultant, Software Development](https://algojobs.io/jobs/2726472) | [Thoughtworks](https://algojobs.io/company/thoughtworks/) | N/A | Ho Chi Minh City |
@@ -39,5 +39,3 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 12/19/2024 | [(Senior) Scala Software Engineer (m/f/d) - Offering](https://algojobs.io/jobs/2639776) | [MOIA](https://algojobs.io/company/moia/) | N/A | Berlin, Germany |
 | 12/16/2024 | [Senior Software Engineer](https://algojobs.io/jobs/2599110) | [The Weather Company](https://algojobs.io/company/theweathercompany/) | N/A | Madison, WI |
 | 12/13/2024 | [Senior Software Engineer](https://algojobs.io/jobs/2572809) | [The Weather Company](https://algojobs.io/company/theweathercompany/) | N/A | Atlanta, GA |
-| 12/03/2024 | [Senior Fullstack Engineer (EU)](https://algojobs.io/jobs/2477231) | [Workera AI](https://algojobs.io/company/workera/) | N/A | EU |
-| 12/02/2024 | [Senior Software Engineer - Platform](https://algojobs.io/jobs/2461979) | [Alpaca ](https://algojobs.io/company/alpaca/) | N/A | Global Anywhere - Eastern or European Time Zones |
