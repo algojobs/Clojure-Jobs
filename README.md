@@ -1,13 +1,14 @@
 # Clojure Jobs
 
-This data is updated weekly, with filled postings removed. Last updated: 02/04/2025
+This data is updated weekly, with filled postings removed. Last updated: 02/11/2025
 
 All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent postings, see: [Clojure Jobs](https://algojobs.io/jobs/clojure)
 
 | Posted | Title | Company | Salary | Location |
 | --- | --- | --- | --- | --- |
-| 01/30/2025 | [Sr Software Engineer, Backend](https://algojobs.io/jobs/3002552) | [Bird](https://algojobs.io/company/bird/) | N/A | Remote- Canada  |
-| 01/30/2025 | [Sr Software Engineer, Backend](https://algojobs.io/jobs/3002553) | [Bird](https://algojobs.io/company/bird/) | N/A | USA (Remote) |
+| 02/06/2025 | [Principal Engineer, Frontend](https://algojobs.io/jobs/3079045) | [Curriculum Associates, LLC](https://algojobs.io/company/curriculumassociates/) | $110K - $196K | US Remote, United States of America |
+| 02/05/2025 | [Senior Software Engineer, Clojure](https://algojobs.io/jobs/3056245) | [DRW ](https://algojobs.io/company/drweng/) | N/A | London |
+| 02/04/2025 | [Senior Java Developer](https://algojobs.io/jobs/3047263) | [Excella ](https://algojobs.io/company/excella/) | N/A | Arlington, Virginia, United States, Remote |
 | 01/29/2025 | [Software Engineer - Frontend](https://algojobs.io/jobs/2974984) | [Ladder](https://algojobs.io/company/ladder33/) | $114K - $134K | Palo Alto, CA |
 | 01/27/2025 | [Backend Software Engineer](https://algojobs.io/jobs/2959255) | [Treasury Prime](https://algojobs.io/company/treasuryprime/) | $150K - $180K | San Francisco, California / Remote US / Remote Canada / US |
 | 01/24/2025 | [Senior Software Engineer Backend](https://algojobs.io/jobs/2941925) | [Deep Impact AG](https://algojobs.io/company/deep-impact/) | N/A | Winterthur, Zurich, Switzerland |
@@ -19,7 +20,6 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 01/21/2025 | [Lead Software Engineer - Marketplace](https://algojobs.io/jobs/2890016) | [GoTo Group](https://algojobs.io/company/gotogroup/) | N/A | Jakarta |
 | 01/21/2025 | [Lead Software Engineer - Driver Platform](https://algojobs.io/jobs/2890023) | [GoTo Group](https://algojobs.io/company/gotogroup/) | N/A | Jakarta |
 | 01/21/2025 | [Senior Software Engineer](https://algojobs.io/jobs/2899420) | [Orgvue](https://algojobs.io/company/orgvue/) | N/A | London, England, United Kingdom (Hybrid) |
-| 01/17/2025 | [Senior Software Engineer (m/f/d)](https://algojobs.io/jobs/2876375) | [Pitch](https://algojobs.io/company/pitch/) | N/A | Remote or Berlin |
 | 01/17/2025 | [Lead Software Engineer (Backend) - Digital Identity](https://algojobs.io/jobs/2874311) | [GoTo Group](https://algojobs.io/company/gotogroup/) | N/A | Jakarta |
 | 01/16/2025 | [Senior Software Engineer II, Puppet](https://algojobs.io/jobs/2860505) | [Perforce](https://algojobs.io/company/perforce/) | N/A | Belfast (Hybrid) |
 | 01/15/2025 | [Back End Software Engineer](https://algojobs.io/jobs/2846277) | [KUBRA](https://algojobs.io/company/kubra/) | N/A | Mississauga, ON (Hybrid) |
@@ -38,4 +38,3 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 12/19/2024 | [(Senior) Scala Software Engineer (m/f/d) - Offering](https://algojobs.io/jobs/2639780) | [MOIA](https://algojobs.io/company/moia/) | N/A | Hamburg, Germany |
 | 12/19/2024 | [(Senior) Scala Software Engineer (m/f/d) - Offering](https://algojobs.io/jobs/2639776) | [MOIA](https://algojobs.io/company/moia/) | N/A | Berlin, Germany |
 | 12/16/2024 | [Senior Software Engineer](https://algojobs.io/jobs/2599110) | [The Weather Company](https://algojobs.io/company/theweathercompany/) | N/A | Madison, WI |
-| 12/13/2024 | [Senior Software Engineer](https://algojobs.io/jobs/2572809) | [The Weather Company](https://algojobs.io/company/theweathercompany/) | N/A | Atlanta, GA |
