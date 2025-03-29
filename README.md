@@ -1,30 +1,21 @@
 # Clojure Jobs
 
-This data is updated weekly, with filled postings removed. Last updated: 03/18/2025
+This data is updated weekly, with filled postings removed. Last updated: 03/29/2025
 
 All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent postings, see: [Clojure Jobs](https://algojobs.io/jobs/clojure)
 
 | Posted | Title | Company | Salary | Location |
 | --- | --- | --- | --- | --- |
-| 03/17/2025 | [Backend Engineer](https://algojobs.io/jobs/3496267) | [AppsFlyer](https://algojobs.io/company/appsflyer/) | N/A | Herzliya |
-| 03/17/2025 | [Senior Software Engineer - Ruby](https://algojobs.io/jobs/3493981) | [Board Intelligence](https://algojobs.io/company/board-intelligence/) | N/A | Stockholm, Stockholm County, Sweden |
+| 03/26/2025 | [Senior Frontend Product Developer](https://algojobs.io/jobs/3592662) | [Whimsical](https://algojobs.io/company/whimsical/) | $169 - $212 | United States (Remote) |
+| 03/25/2025 | [Staff Software Engineer](https://algojobs.io/jobs/3583036) | [AppsFlyer](https://algojobs.io/company/appsflyer/) | N/A | Herzliya |
+| 03/25/2025 | [Software Engineer](https://algojobs.io/jobs/3570839) | [Wabtec Corporation](https://algojobs.io/company/wabtec/) | N/A | Bengaluru, India |
 | 03/14/2025 | [Senior Software Development Engineer](https://algojobs.io/jobs/3480579) | [Amperity](https://algojobs.io/company/amperity/) | $170K - $230K | Seattle, WA |
 | 03/14/2025 | [Software Development Engineer](https://algojobs.io/jobs/3480586) | [Amperity](https://algojobs.io/company/amperity/) | $136K - $190K | Seattle, WA |
 | 03/13/2025 | [Senior Software Engineer](https://algojobs.io/jobs/3458202) | [India: Mastercard Technology Private Limited](https://algojobs.io/company/mastercard/) | N/A | Budapest, Hungary (Ekata) |
 | 03/10/2025 | [Lead Software Engineer](https://algojobs.io/jobs/3428533) | [India: Mastercard Technology Private Limited](https://algojobs.io/company/mastercard/) | N/A | Budapest, Hungary (Ekata) |
 | 03/06/2025 | [Software Engineer II](https://algojobs.io/jobs/3394110) | [India: Mastercard Technology Private Limited](https://algojobs.io/company/mastercard/) | N/A | Budapest, Hungary (Ekata) |
 | 03/06/2025 | [Sr Software Engineer](https://algojobs.io/jobs/3394104) | [India: Mastercard Technology Private Limited](https://algojobs.io/company/mastercard/) | N/A | Budapest, Hungary (Ekata) |
-| 03/04/2025 | [Software Engineer](https://algojobs.io/jobs/3362215) | [Telenor Sverige AB](https://algojobs.io/company/telenorgroup/) | N/A | DNA Helsinki Ilmalanlinna, Finland |
 | 03/04/2025 | [Software Development Engineer II](https://algojobs.io/jobs/3358485) | [Highspot](https://algojobs.io/company/highspot/) | N/A | India - Hyderabad (Hybrid) |
 | 02/24/2025 | [[Job-20290] Mid level Developer Back End (Java funcional) , Brazil](https://algojobs.io/jobs/3241882) | [CI&T](https://algojobs.io/company/ciandt/) | N/A | Brazil (Remote) |
 | 02/19/2025 | [Senior Software Engineer (Execution Team)](https://algojobs.io/jobs/3203625) | [CircleCI](https://algojobs.io/company/circleci/) | $152K - $190K | Toronto |
 | 02/05/2025 | [Senior Software Engineer, Clojure](https://algojobs.io/jobs/3056245) | [DRW ](https://algojobs.io/company/drweng/) | N/A | London |
-| 02/04/2025 | [Senior Java Developer](https://algojobs.io/jobs/3047263) | [Excella ](https://algojobs.io/company/excella/) | N/A | Arlington, Virginia, United States, Remote |
-| 01/27/2025 | [Backend Software Engineer](https://algojobs.io/jobs/2959255) | [Treasury Prime](https://algojobs.io/company/treasuryprime/) | $150K - $180K | US / San Francisco, California / Remote US / Remote Canada |
-| 01/23/2025 | [Senior Software Engineer - Cybersecurity R&D](https://algojobs.io/jobs/2939401) | [Peraton](https://algojobs.io/company/peraton/) | $112K - $179K | Aberdeen Proving Ground, MD, US |
-| 01/22/2025 | [Software Developer](https://algojobs.io/jobs/2916286) | [dmg::media](https://algojobs.io/company/dmgmedia/) | N/A | London |
-| 01/22/2025 | [[Job-19879] Senior Developer Back End (Java) , Brazil](https://algojobs.io/jobs/3163210) | [CI&T](https://algojobs.io/company/ciandt/) | N/A | Brazil (Remote) |
-| 01/21/2025 | [Senior Software Engineer - Driver Platform](https://algojobs.io/jobs/2890011) | [GoTo Group](https://algojobs.io/company/gotogroup/) | N/A | Jakarta |
-| 01/21/2025 | [Lead Software Engineer - Marketplace](https://algojobs.io/jobs/2890016) | [GoTo Group](https://algojobs.io/company/gotogroup/) | N/A | Jakarta |
-| 01/21/2025 | [Lead Software Engineer - Driver Platform](https://algojobs.io/jobs/2890023) | [GoTo Group](https://algojobs.io/company/gotogroup/) | N/A | Jakarta |
-| 01/21/2025 | [Senior Software Engineer](https://algojobs.io/jobs/2899420) | [Orgvue](https://algojobs.io/company/orgvue/) | N/A | London, England, United Kingdom (Hybrid) |
