@@ -1,11 +1,13 @@
 # Clojure Jobs
 
-This data is updated weekly, with filled postings removed. Last updated: 03/29/2025
+This data is updated weekly, with filled postings removed. Last updated: 04/01/2025
 
 All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent postings, see: [Clojure Jobs](https://algojobs.io/jobs/clojure)
 
 | Posted | Title | Company | Salary | Location |
 | --- | --- | --- | --- | --- |
+| 03/31/2025 | [Software Engineer - Python (TS/SCI Clearance Required)](https://algojobs.io/jobs/3639528) | [North Point Technology](https://algojobs.io/company/northpointtechnology/) | N/A | Saint Louis, Missouri, United States |
+| 03/31/2025 | [Software Engineer (Applied AI)](https://algojobs.io/jobs/3638602) | [Metabase](https://algojobs.io/company/metabase/) | N/A | Global Remote |
 | 03/26/2025 | [Senior Frontend Product Developer](https://algojobs.io/jobs/3592662) | [Whimsical](https://algojobs.io/company/whimsical/) | $169 - $212 | United States (Remote) |
 | 03/25/2025 | [Staff Software Engineer](https://algojobs.io/jobs/3583036) | [AppsFlyer](https://algojobs.io/company/appsflyer/) | N/A | Herzliya |
 | 03/25/2025 | [Software Engineer](https://algojobs.io/jobs/3570839) | [Wabtec Corporation](https://algojobs.io/company/wabtec/) | N/A | Bengaluru, India |
