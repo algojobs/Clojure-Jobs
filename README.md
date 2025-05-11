@@ -1,17 +1,22 @@
 # Clojure Jobs
 
-This data is updated weekly, with filled postings removed. Last updated: 04/29/2025
+This data is updated weekly, with filled postings removed. Last updated: 05/11/2025
 
 All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent postings, see: [Clojure Jobs](https://algojobs.io/jobs/clojure)
 
 | Posted | Title | Company | Salary | Location |
 | --- | --- | --- | --- | --- |
-| 04/25/2025 | [** Applications Development Sr Programmer Analyst - C12 - Sr. Java Developer](https://algojobs.io/jobs/3907789) | [Citi](https://algojobs.io/company/citi/) | N/A | Mississauga Ontario Canada |
+| 05/06/2025 | [Software Development Engineer II](https://algojobs.io/jobs/3998373) | [Amperity](https://algojobs.io/company/amperity/) | $136K - $190K | Seattle, WA |
+| 05/02/2025 | [Software Engineer - Foundation Security](https://algojobs.io/jobs/3977436) | [GoTo Group](https://algojobs.io/company/gotogroup/) | N/A | Jakarta |
+| 05/01/2025 | [Software Engineer - Front End](https://algojobs.io/jobs/3957770) | [Ladder](https://algojobs.io/company/ladder33/) | $130K - $150K | Palo Alto, CA |
+| 04/30/2025 | [Elixir Software Engineer](https://algojobs.io/jobs/3944990) | [True Anomaly](https://algojobs.io/company/trueanomalyinc/) | $140K - $190K | Denver, CO or Colorado Springs, CO or Long Beach, CA or Washington D.C. |
+| 04/29/2025 | [Senior Software Engineer, Creative Serving](https://algojobs.io/jobs/3930687) | [Liftoff](https://algojobs.io/company/liftoff/) | $165K - $195K | Unites States (Remote) |
 | 04/24/2025 | [Software Engineer, Data Team](https://algojobs.io/jobs/3891380) | [Crossbeam](https://algojobs.io/company/crossbeam/) | N/A | Paris, France |
 | 04/22/2025 | [Staff Software Engineer, Infrastructure Team](https://algojobs.io/jobs/3850025) | [Liftoff](https://algojobs.io/company/liftoff/) | $185K - $235K | North America  |
 | 04/17/2025 | [Senior Backend Engineer (LATAM)](https://algojobs.io/jobs/3829404) | [Workera AI](https://algojobs.io/company/workera/) | N/A | Remote |
 | 04/16/2025 | [Software Engineering Senior Advisors](https://algojobs.io/jobs/3820025) | [SAU1 Cigna Worldwide Insurance Company, Saudi Arabia Branch](https://algojobs.io/company/cigna/) | N/A | Morris Plains, NJ, United States of America |
 | 04/14/2025 | [Software Engineer](https://algojobs.io/jobs/3785702) | [CircleCI](https://algojobs.io/company/circleci/) | $142K - $177K | Toronto |
+| 04/14/2025 | [Software Engineer - Full Stack (Clojure)](https://algojobs.io/jobs/3777775) | [Ladder](https://algojobs.io/company/ladder33/) | $125K - $145K | Palo Alto, CA |
 | 04/14/2025 | [Lead Software Engineer](https://algojobs.io/jobs/3799215) | [GoTo Group](https://algojobs.io/company/gotogroup/) | N/A | Bengaluru (Hybrid) |
 | 04/14/2025 | [Principal, Software Engineer](https://algojobs.io/jobs/3791998) | [Walmart](https://algojobs.io/company/walmart/) | $110K - $220K | Bentonville, AR, United States of America |
 | 04/11/2025 | [Lead Software Development Engineer](https://algojobs.io/jobs/3770913) | [Amperity](https://algojobs.io/company/amperity/) | $190K - $260K | Seattle, WA |
@@ -26,6 +31,3 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 03/17/2025 | [Backend Engineer](https://algojobs.io/jobs/3496267) | [AppsFlyer](https://algojobs.io/company/appsflyer/) | N/A | Herzliya |
 | 03/14/2025 | [Senior Software Development Engineer](https://algojobs.io/jobs/3480579) | [Amperity](https://algojobs.io/company/amperity/) | $170K - $230K | Seattle, WA |
 | 03/13/2025 | [Senior Software Engineer](https://algojobs.io/jobs/3458202) | [India: Mastercard Technology Private Limited](https://algojobs.io/company/mastercard/) | N/A | Budapest, Hungary (Ekata) |
-| 03/10/2025 | [Lead Java Software Engineer](https://algojobs.io/jobs/3428533) | [India: Mastercard Technology Private Limited](https://algojobs.io/company/mastercard/) | N/A | Budapest, Hungary (Ekata) |
-| 03/06/2025 | [Software Engineer II](https://algojobs.io/jobs/3394110) | [India: Mastercard Technology Private Limited](https://algojobs.io/company/mastercard/) | N/A | Budapest, Hungary (Ekata) |
-| 03/06/2025 | [Sr Software Engineer](https://algojobs.io/jobs/3394104) | [India: Mastercard Technology Private Limited](https://algojobs.io/company/mastercard/) | N/A | Budapest, Hungary (Ekata) |
