@@ -1,11 +1,14 @@
 # Clojure Jobs
 
-This data is updated weekly, with filled postings removed. Last updated: 05/11/2025
+This data is updated weekly, with filled postings removed. Last updated: 05/18/2025
 
 All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent postings, see: [Clojure Jobs](https://algojobs.io/jobs/clojure)
 
 | Posted | Title | Company | Salary | Location |
 | --- | --- | --- | --- | --- |
+| 05/15/2025 | [Senior Full-Stack Software Engineer](https://algojobs.io/jobs/4096142) | [Treasury Prime](https://algojobs.io/company/treasuryprime/) | $180K - $215K | US / Remote US / Remote Canada |
+| 05/13/2025 | [Backend Engineer](https://algojobs.io/jobs/4068015) | [AppsFlyer](https://algojobs.io/company/appsflyer/) | N/A | Herzliya |
+| 05/12/2025 | [Software Engineer - CIAM](https://algojobs.io/jobs/4053855) | [CircleCI](https://algojobs.io/company/circleci/) | $73K - $90K | Remote, London |
 | 05/06/2025 | [Software Development Engineer II](https://algojobs.io/jobs/3998373) | [Amperity](https://algojobs.io/company/amperity/) | $136K - $190K | Seattle, WA |
 | 05/02/2025 | [Software Engineer - Foundation Security](https://algojobs.io/jobs/3977436) | [GoTo Group](https://algojobs.io/company/gotogroup/) | N/A | Jakarta |
 | 05/01/2025 | [Software Engineer - Front End](https://algojobs.io/jobs/3957770) | [Ladder](https://algojobs.io/company/ladder33/) | $130K - $150K | Palo Alto, CA |
@@ -24,10 +27,6 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 04/10/2025 | [Senior Software Engineer - Cybersecurity R&D](https://algojobs.io/jobs/3764732) | [Peraton](https://algojobs.io/company/peraton/) | $112K - $179K | Aberdeen Proving Ground, MD, US |
 | 04/09/2025 | [Senior Software Engineer](https://algojobs.io/jobs/3717306) | [Liftoff](https://algojobs.io/company/liftoff/) | $165K - $195K | North America (Remote)  |
 | 04/08/2025 | [Senior Software Engineer (Germany)](https://algojobs.io/jobs/3716134) | [Nubank](https://algojobs.io/company/nubank/) | N/A | Germany, Berlin |
-| 04/02/2025 | [Senior Backend Developer](https://algojobs.io/jobs/3671482) | [Nanit](https://algojobs.io/company/nanit/) | N/A | Ramat Gan, Tel Aviv District, Israel |
 | 03/31/2025 | [Software Engineer (Applied AI)](https://algojobs.io/jobs/3638602) | [Metabase](https://algojobs.io/company/metabase/) | N/A | Global Remote |
 | 03/25/2025 | [Staff Software Engineer](https://algojobs.io/jobs/3583036) | [AppsFlyer](https://algojobs.io/company/appsflyer/) | N/A | Herzliya |
 | 03/25/2025 | [Software Engineer](https://algojobs.io/jobs/3570839) | [Wabtec Corporation](https://algojobs.io/company/wabtec/) | N/A | Bengaluru, India |
-| 03/17/2025 | [Backend Engineer](https://algojobs.io/jobs/3496267) | [AppsFlyer](https://algojobs.io/company/appsflyer/) | N/A | Herzliya |
-| 03/14/2025 | [Senior Software Development Engineer](https://algojobs.io/jobs/3480579) | [Amperity](https://algojobs.io/company/amperity/) | $170K - $230K | Seattle, WA |
-| 03/13/2025 | [Senior Software Engineer](https://algojobs.io/jobs/3458202) | [India: Mastercard Technology Private Limited](https://algojobs.io/company/mastercard/) | N/A | Budapest, Hungary (Ekata) |
